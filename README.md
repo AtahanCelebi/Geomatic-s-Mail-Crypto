@@ -13,4 +13,5 @@
 <p>P.S: You should allow less secure apps on your gmail account (<a href="https://myaccount.google.com/lesssecureapps" rel="nofollow">https://myaccount.google.com/lesssecureapps</a>)</p>
 <p>Here is the our presentation</p>
 <p>&nbsp;</p>
-<p><iframe src="https://view.officeapps.live.com/op/embed.aspx?src=[https://docs.google.com/presentation/d/1_OHHwxI01QIFYGqg7F-TiQO0vgOz0aL4hwj0FZdMyGo/edit#slide=id.p1]" width="100%" height="600px" frameborder="0"></iframe></p>
+<iframe src='https://docs.google.com/presentation/d/1_OHHwxI01QIFYGqg7F-TiQO0vgOz0aL4hwj0FZdMyGo/edit?usp=sharing' width='100%' height='600px' frameborder='0'>
+
