@@ -11,6 +11,6 @@
 <p>It is already been converted to exe. Also we'are working on freezing all packages which we used</p>
 <p>Link:&nbsp;<a href="https://drive.google.com/open?id=179v1dGrExsVm_qWKJkEqrM-x-07RZAJd" rel="nofollow">https://drive.google.com/open?id=179v1dGrExsVm_qWKJkEqrM-x-07RZAJd</a></p>
 <p>P.S: You should allow less secure apps on your gmail account (<a href="https://myaccount.google.com/lesssecureapps" rel="nofollow">https://myaccount.google.com/lesssecureapps</a>)</p>
-<p>Here is the our presentation</p>
-<iframe width="100%" height="630" src="https://docs.google.com/presentation/d/1_OHHwxI01QIFYGqg7F-TiQO0vgOz0aL4hwj0FZdMyGo/edit#slide=id.p1&embedded=true" ></iframe>
+<p>Take a look at our presentation</p>
+<p><a title="Geomatic's Mail Crypto Presentation" href="https://speakerdeck.com/atahancelebi/geomatics-mail-crypto"><img src="https://i.ibb.co/WzQcPNs/maaa.png" alt="" width="639" height="359" /> </a></p>
 
